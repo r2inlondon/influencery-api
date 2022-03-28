@@ -15,7 +15,7 @@ To send the data to our front end, we are using Active Model Serializers - detai
 
 Please help us fix the the API so our Influencery project will work.
 
-Finaly please add a primary_tag field to the Influencer model. 
+Finally please add a primary_tag field to the Influencer model. 
 This should reference a Tag ID and every Influencer MUST have a primary_tag.
 The influencer_serializer will have to be updated.
 
